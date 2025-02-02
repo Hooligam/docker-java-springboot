@@ -1,6 +1,6 @@
 # Dockerizando uma Aplicacao Java Spring Boot
 
-![Docker e Java](./imagem%20readme/DALL·E%202025-02-02%2015.27.34%20-%20A%20visually%20striking%20image%20combining%20Docker%20and%20Java.%20The%20image%20features%20a%20blue%20whale%20\(Docker's%20mascot\)%20carrying%20a%20steaming%20cup%20of%20coffee%20\(Java's%20iconi.webp)
+![Docker e Java](./imagem%20readme/image.webp)
 
 Este repositório contém um `Dockerfile` para criar uma imagem Docker de uma aplicação Java Spring Boot. O processo está dividido em duas fases: compilação e execução.
 
